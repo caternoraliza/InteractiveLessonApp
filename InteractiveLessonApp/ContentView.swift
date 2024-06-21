@@ -26,11 +26,10 @@ struct ContentView: View {
             .font(.title2)
             .buttonStyle(.borderedProminent)
             .tint(.pink)
-            @State private var titleText =
             Text("What is your age")
                 
                 
-            }
+            
 
         
                 .padding()
